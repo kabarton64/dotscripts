@@ -15,7 +15,7 @@ Using "make link" will remove the file from your bin, then make a link of the gi
 Using "make unlink" will unlink the files and then copy them into your bin.
 
 To change which files you are using, change "script_one" and "script_two" in Makefile. 
-## Uninstilling
+## Uninstalling
 To remove my files from your bin type:
 ```
 rm ~/bin/deadoralive.sh
