@@ -20,4 +20,4 @@ To remove my files from your bin type:
 ```
 rm ~/bin/deadoralive.sh
 rm ~/bin/bff.sh
-``
+```
